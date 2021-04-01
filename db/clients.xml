@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<clients-db>
+                            
+    
+
+    
+    <person firstName="Petr" id="10023" lastName="Petrov" login="client" password="123" phoneNumber="+375291234567"/>
+    
+</clients-db>

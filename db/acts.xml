@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<acts-db>
+                                    
+
+
+    
+    
+    
+    
+    
+    
+    <act clientComment="Well" clientFirstName="Bob" clientId="10008" clientLastName="Marley" date="2021-03-31" id="10012" isFinished="true" managerComment="Ready" managerFirstName="Sam" managerId="10011" managerLastName="" office="201" rating="5" time="8:00"/>
+                            
+
+    
+    
+    
+    
+    
+    <act clientComment="доставка товара по адресу Притыцкого 82/ все готово. спасибо" clientFirstName="Bob" clientId="10008" clientLastName="Marley" date="2021-04-05" id="10015" isFinished="true" managerComment="оформлена доставка. товар будет 05.04.21 к 10-00" managerFirstName="Sam" managerId="10011" managerLastName="Jones" office="201" rating="5" time="10:00"/>
+                        
+    
+    
+    
+    
+    <act clientComment="ustal" clientFirstName="Ron" clientId="10016" clientLastName="Wizley" date="2021-04-05" id="10017" isFinished="true" managerComment="ponyatno" managerFirstName="Sam" managerId="10011" managerLastName="" office="201" rating="3" time="17:00"/>
+                        
+    
+    
+    
+    
+    <act clientComment="zbs" clientFirstName="Ron" clientId="10016" clientLastName="Wizley" date="2021-04-09" id="10018" isFinished="false" managerComment="" managerFirstName="Sam" managerId="10011" managerLastName="Jones" office="201" rating="" time="8:00"/>
+                    
+
+    
+    
+    
+    <act clientComment="подвезти документы" clientFirstName="Bob" clientId="10008" clientLastName="Marley" date="2021-04-01" id="10019" isFinished="true" managerComment="ok" managerFirstName="Sam" managerId="10011" managerLastName="Jones" office="201" rating="" time="10:00"/>
+            
+    
+    
+    <act clientComment="hfhfhfhf" clientFirstName="Ron" clientId="10016" clientLastName="Wizley" date="2021-05-28" id="10020" isFinished="true" managerComment="kkhhjk" managerFirstName="Sam" managerId="10011" managerLastName="Jones" office="201" phoneNumber="" rating="" time="13:00"/>
+        
+    
+    <act clientComment="qeqweq" clientFirstName="Petr" clientId="10021" clientLastName="Petrov" date="2021-04-01" id="10022" isFinished="false" managerComment="" managerFirstName="Sam" managerId="10011" managerLastName="Jones" office="201" phoneNumber="" rating="" time="8:00"/>
+    
+    <act clientComment="ssssss" clientFirstName="Petr" clientId="10023" clientLastName="Petrov" date="2021-04-01" id="10024" isFinished="true" managerComment="dddd" managerFirstName="Sam" managerId="10011" managerLastName="Jones" office="201" phoneNumber="+375291234567" rating="" time="11:00"/>
+</acts-db>

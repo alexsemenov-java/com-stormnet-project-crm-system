@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<managers-db>
+                    
+ 
+
+    
+    
+    <person firstName="Sam" id="10011" lastName="Jones" login="man1" office="201" password="123"/>
+        
+
+</managers-db>
